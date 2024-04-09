@@ -3,7 +3,7 @@ import * as THREE from 'three'
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js'
 import GUI from 'lil-gui'
 import galaxyVertexShader from "./shaders/galaxy/vertex.glsl"
-import galaxyFragmentShader from "./shaders/galaxy/Fragment.glsl"
+import galaxyFragmentShader from "./shaders/galaxy/fragment.glsl"
 
 
 
